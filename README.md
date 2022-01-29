@@ -1,16 +1,16 @@
 # product_interface
 Product interface for a sales project.
 
-¿Cómo usar este proyecto?
+## How to use this project?
 
-Paso 1: clonar el proyecto
+**Step 1: Clone the project.**
 
-git clone
+### `git clone`
 
-Paso 2: navegar hacia la carpeta e instalar dependencias
+**Step 2: Navigate to the folder and install dependencies.**
 
-yarn install
+### `yarn install`
 
-Paso 3: ejecutar el proyecto
+**Step 3: Run the project.**
 
-yarn start
+### `yarn start`
